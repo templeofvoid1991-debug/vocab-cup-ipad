@@ -1,0 +1,1 @@
+globalThis.CupInstallEdition = Object.freeze({"id":"math-sek","name":"Math Cup Sek 1","demo":false,"startFile":"Math Cup Sek-1-Edition.html","title":"Math Cup Sek-1-Edition","editionId":"sekundarstufe","url":"https://templeofvoid1991-debug.github.io/vocab-cup-ipad/math-sek/"});

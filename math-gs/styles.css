@@ -1,0 +1,18 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; background: #07111d; color: #f7fbff; }
+* { box-sizing: border-box; }
+body { margin: 0; padding: max(24px, env(safe-area-inset-top)) max(20px, env(safe-area-inset-right)) max(24px, env(safe-area-inset-bottom)) max(20px, env(safe-area-inset-left)); }
+main { max-width: 700px; margin: 0 auto; }
+.brand { border-radius: 22px; }
+.eyebrow { color: #f7d84a; font-size: 14px; font-weight: 700; }
+h1 { font-size: clamp(30px, 6vw, 48px); line-height: 1.12; }
+h2 { font-size: 22px; }
+p { line-height: 1.6; color: #c2d6e7; }
+section, details { padding: 18px 22px; margin-block: 20px; border: 1px solid #2c4358; border-radius: 18px; background: #0d1d2d; }
+.file-button, .primary { display: inline-flex; align-items: center; min-height: 48px; padding: 12px 20px; border-radius: 12px; background: #f7d84a; color: #07111d; font-weight: 700; text-decoration: none; cursor: pointer; }
+.file-button:has(+ input:disabled) { opacity: .55; cursor: wait; }
+input[type=file] { display: block; max-width: 100%; margin-top: 12px; font: inherit; }
+.small { font-size: 14px; }
+progress { display: block; width: 100%; margin-top: 18px; accent-color: #f7d84a; }
+[hidden] { display: none !important; }
+summary { cursor: pointer; min-height: 44px; align-content: center; font-weight: 700; }
+a:focus-visible, label:focus-within, summary:focus-visible, input:focus-visible { outline: 3px solid #4cc9f0; outline-offset: 4px; }

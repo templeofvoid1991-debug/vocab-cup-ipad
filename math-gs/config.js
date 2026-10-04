@@ -1,0 +1,1 @@
+globalThis.CupInstallEdition = Object.freeze({"id":"math-gs","name":"Math Cup Grundschule","demo":false,"startFile":"Math Cup Grundschul-Edition.html","title":"Math Cup Grundschul-Edition","editionId":"grundschule","url":"https://templeofvoid1991-debug.github.io/vocab-cup-ipad/math-gs/"});

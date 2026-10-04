@@ -1,0 +1,1 @@
+globalThis.CupInstallEdition = Object.freeze({"id":"vocab-sek-demo","name":"Vocab Cup Demo","demo":true,"startFile":"Start Vocab Cup.html","title":"Vocab Cup","url":"https://templeofvoid1991-debug.github.io/vocab-cup-ipad/vocab-sek-demo/"});

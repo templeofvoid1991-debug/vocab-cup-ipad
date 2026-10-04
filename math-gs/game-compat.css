@@ -1,0 +1,7 @@
+/* Imported buyer packages keep their original game files. This small
+   compatibility patch gives the Duel's group name enough room on large iPads. */
+@media (pointer: coarse) and (min-width: 981px) and (min-height: 501px) and (orientation: landscape) {
+  body:not(.possession-rush-active) .duel-card .active-side {
+    padding-inline: 4px;
+  }
+}
