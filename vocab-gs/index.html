@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#07111d">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Vocab Cup Grundschule">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Vocab Cup Grundschule auf dem iPad installieren</title>
+</head>
+<body>
+  <main>
+    <img class="brand" src="icons/icon-192.png" alt="" width="96" height="96">
+    <p class="eyebrow">Vocab Cup Grundschule · Eduki</p>
+    <h1>Dein Spiel auf dem iPad.</h1>
+    <p>Einmal einrichten. Danach ohne Internet spielen. Keine Anmeldung, kein Abo.</p>
+    <section id="browserInstructions">
+      <h2>1. Zum Home-Bildschirm hinzufügen</h2>
+      <p>Öffne diese Seite in <strong>Safari</strong>. Tippe auf <strong>Teilen → Zum Home-Bildschirm → Hinzufügen</strong>. Öffne anschließend das neue Vocab Cup Grundschule-Icon.</p>
+      <p class="small">Falls nötig zuerst „Mehr anzeigen“ wählen. Wenn Safari „Als Web-App öffnen“ anbietet, aktiviere diese Option.</p>
+      <p>Die kurze Einrichtung braucht einmal Internet. Deine gekaufte ZIP wird anschließend direkt auf dem iPad verarbeitet.</p>
+    </section>
+    <section>
+      <h2>2. Gekaufte ZIP auswählen</h2>
+      <p>Lade die vollständige Vocab Cup Grundschule-ZIP aus deinem Eduki-Kauf herunter. Wähle sie hier aus der Dateien-App aus. <strong>Du musst sie nicht entpacken.</strong></p>
+      <label class="file-button" for="packageFile">Eduki-ZIP auswählen</label>
+      <input id="packageFile" type="file" accept=".zip,application/zip,application/x-zip-compressed" disabled>
+      <p class="small">Deine ZIP, Wortlisten und Season-Daten werden nicht hochgeladen.</p>
+      <progress id="installProgress" value="0" max="1" hidden aria-label="Installation"></progress>
+      <p id="installStatus" role="status">Installation wird vorbereitet…</p>
+    </section>
+    <section id="installedPanel" hidden>
+      <h2>3. Offline spielen</h2>
+      <p id="installedDescription"></p>
+      <a class="primary" id="playLink" href="game/Vocab%20Cup%20Grundschul-Edition.html">Vocab Cup Grundschule starten</a>
+      <p>Zum Prüfen: Flugmodus einschalten, App schließen und über das Vocab Cup Grundschule-Icon erneut öffnen. Auf dem iPad im Querformat spielen.</p>
+    </section>
+    <details>
+      <summary>Updates und gespeicherte Daten</summary>
+      <p>Für ein Update exportierst du zuerst die im Spiel angebotenen Backups. Öffne dann im Lehrer-Setup „iPad-Installation / Update“ und wähle die neue Eduki-ZIP. Deine Daten bleiben auf diesem iPad gespeichert.</p>
+      <p>iPadOS kann Website-Daten bei Speichermangel oder nach einer Bereinigung löschen. Bewahre ZIP und Backups auf. Dann kannst du das Spiel hier erneut installieren. Ein neues Gerät übernimmt deine Daten nicht automatisch.</p>
+      <p>Empfohlen: iPadOS 17 oder neuer, aktuelles Safari und mindestens 1 GB freier Speicher. Die Installation benötigt keine kostenpflichtige Zusatz-App.</p>
+    </details>
+  </main>
+  <script src="config.js"></script>
+  <script src="storage.js"></script>
+  <script type="module" src="installer.js"></script>
+</body>
+</html>

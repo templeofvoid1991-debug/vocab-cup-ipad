@@ -1,6 +1,6 @@
 # Lesson Arcade Cup – iPad-Installation
 
-Kostenlose Installationshilfen für Vocab Cup Sek 1 und beide Math-Cup-Editionen, jeweils mit eigener Demo-Seite. Diese Seiten enthalten keine Spiele, Vokabellisten oder Käufer-ZIPs. Die passende Eduki-ZIP wird ausschließlich auf dem Gerät gelesen und lokal gespeichert.
+Kostenlose Installationshilfen für beide Vocab-Cup- und beide Math-Cup-Editionen, jeweils mit eigener Demo-Seite. Diese Seiten enthalten keine Spiele, Vokabellisten oder Käufer-ZIPs. Die passende Eduki-ZIP wird ausschließlich auf dem Gerät gelesen und lokal gespeichert.
 
 ## Seiten
 
@@ -11,7 +11,10 @@ Kostenlose Installationshilfen für Vocab Cup Sek 1 und beide Math-Cup-Editionen
 - Math Cup Sek 1: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/math-sek/
 - Math Cup Sek 1 Demo: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/math-sek-demo/
 
-Eine vorhandene Installationsseite ist kein Verkaufs- oder Releasebeleg. Math Cup Sek 1 ist noch nicht auf Eduki veröffentlicht. Vocab Cup Grundschule und dessen Demo sind noch in Vorbereitung und werden hier noch nicht angeboten.
+- Vocab Cup Grundschule: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/vocab-gs/
+- Vocab Cup Grundschule Demo: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/vocab-gs-demo/
+
+Die beiden Grundschul-Installationsseiten wurden am 08.10.2026 auf ausdrücklichen Nutzerauftrag ergänzt. Eine vorhandene Installationsseite ist kein Verkaufs- oder Releasebeleg. Käuferpakete und kostenlose Demo-ZIPs werden separat bereitgestellt; hier sind ausschließlich die Installationshilfen enthalten.
 
 ## Ablauf
 

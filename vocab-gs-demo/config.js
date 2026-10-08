@@ -1,0 +1,1 @@
+globalThis.CupInstallEdition = Object.freeze({"id":"vocab-gs-demo","name":"Vocab Cup GS Demo","demo":true,"startFile":"Vocab Cup Grundschul-Edition Demo.html","title":"Vocab Cup Grundschul-Edition","editionId":"vocab-grundschule","url":"https://templeofvoid1991-debug.github.io/vocab-cup-ipad/vocab-gs-demo/"});
