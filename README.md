@@ -16,6 +16,10 @@ Kostenlose Installationshilfen für beide Vocab-Cup- und beide Math-Cup-Editione
 
 Die beiden Grundschul-Installationsseiten wurden am 08.10.2026 auf ausdrücklichen Nutzerauftrag ergänzt. Eine vorhandene Installationsseite ist kein Verkaufs- oder Releasebeleg. Käuferpakete und kostenlose Demo-ZIPs werden separat bereitgestellt; hier sind ausschließlich die Installationshilfen enthalten.
 
+- The Starheart of Solara: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/solara/
+
+Solara ist eine getrennte Installationshilfe für den privaten Schultest. Die App-ZIP bleibt lokal; Geräteabnahme und Käuferveröffentlichung sind eigene Schritte.
+
 ## Ablauf
 
 Passende ZIP auf dem iPad speichern. Diese Seite in Safari öffnen, zum Home-Bildschirm hinzufügen, dann das neue Symbol öffnen und dort die ZIP auswählen. Danach offline spielen. Demo und Vollversion haben getrennte Installationen und Daten. ZIP und Backups aufbewahren. Updates werden mit der neuen ZIP derselben Ausgabe lokal eingespielt.
