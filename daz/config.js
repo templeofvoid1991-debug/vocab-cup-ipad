@@ -1,0 +1,1 @@
+globalThis.CupInstallEdition = Object.freeze({"id":"daz","name":"DaZ Cup","demo":false,"startFile":"DaZ Cup.html","title":"DaZ Cup","editionId":"deutsch-daz","url":"https://templeofvoid1991-debug.github.io/vocab-cup-ipad/daz/"});

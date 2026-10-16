@@ -1,6 +1,6 @@
 # Lesson Arcade Cup – iPad-Installation
 
-Kostenlose Installationshilfen für beide Vocab-Cup- und beide Math-Cup-Editionen, jeweils mit eigener Demo-Seite. Diese Seiten enthalten keine Spiele, Vokabellisten oder Käufer-ZIPs. Die passende Eduki-ZIP wird ausschließlich auf dem Gerät gelesen und lokal gespeichert.
+Kostenlose Installationshilfen für Vocab Cup, Math Cup und DaZ Cup, jeweils mit eigener Demo-Seite. Diese Seiten enthalten keine Spiele, Vokabellisten oder Käufer-ZIPs. Die passende Eduki-ZIP wird ausschließlich auf dem Gerät gelesen und lokal gespeichert.
 
 ## Seiten
 
@@ -25,3 +25,10 @@ Solara ist eine getrennte Installationshilfe für den privaten Schultest. Die Ap
 Passende ZIP auf dem iPad speichern. Diese Seite in Safari öffnen, zum Home-Bildschirm hinzufügen, dann das neue Symbol öffnen und dort die ZIP auswählen. Danach offline spielen. Demo und Vollversion haben getrennte Installationen und Daten. ZIP und Backups aufbewahren. Updates werden mit der neuen ZIP derselben Ausgabe lokal eingespielt.
 
 Quellen: eine gemeinsame Installerquelle mit Editionskonfiguration. ZIP-Bibliothek fflate 0.8.2 unter MIT; Lizenz unter vendor/. Markenicons und Texte: Lesson Arcade. Keine Analyse, Konten, Upload-Endpunkte oder Laufzeit-CDNs.
+
+## DaZ Cup – Deutsch als Zweitsprache
+
+- Vollversion: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/daz/
+- Kostenlose Demo: https://templeofvoid1991-debug.github.io/vocab-cup-ipad/daz-demo/
+
+Getrennte Installationen mit lokalem ZIP-Import. Die Seiten enthalten ausschließlich Installationshilfen und keine Spielinhalte. Auswahl nach Sprachstand und Lesefähigkeit. Reale iPadOS-/Safari- und Unterrichtsprobe separat.
